@@ -55,6 +55,11 @@
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.github.Cloudmersive</groupId>
+            <artifactId>Cloudmersive.APIClient.Java</artifactId>
+            <version>v3.54</version>
+        </dependency>
 
     </dependencies>
 </project>

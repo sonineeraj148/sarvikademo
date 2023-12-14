@@ -1,7 +1,5 @@
 package com.example.sarvikademo;
 
-import java.util.stream.IntStream;
-
 public class FizzBuzzApplication {
 
     public static void main(String[] args){
